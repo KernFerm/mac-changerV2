@@ -20,7 +20,9 @@ Clone this repository to get started with MAC Changer V2:
 
 # Clone the repository
 
+```
 git clone https://github.com/kernferm/MACChangerV2.git
+```
 
 # Navigate to the project directory
 
