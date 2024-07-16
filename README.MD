@@ -74,7 +74,7 @@ python -m unittest discover tests
 
 [License Agreement](https://github.com/KernFerm/mac-changerV2/blob/main/LICENSE)
 
-## DISCLAIMER
+# DISCLAIMER
 - `THIS IS FOR EDUCATIONAL PURPOSES ONLY.`
 - `I AM NOT RESPONSIBLE IF ANYTHING HAPPENS TO YOU OR YOUR COMPUTER` 
 - `NOR AM I RESPOSIBLE IF YOUR` **ISP** `COMES AFTER YOU THAT IS ON YOU.`
