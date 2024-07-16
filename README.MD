@@ -16,7 +16,7 @@ Ensure you have Python installed on your system. You can download Python from [P
 
 Clone this repository to get started with MAC Changer V2:
 
-```bash
+
 
 # Clone the repository
 
@@ -46,6 +46,7 @@ cd path_to_script
 ```
 python main.py
 ```
+
 - Follow the on-screen prompts to select your network interface and enter a new MAC address.
 
 
