@@ -4,17 +4,17 @@ MAC Changer V2 is a Python script designed to easily change the MAC address of n
 
 ## Getting Started
 
-Follow these instructions to get MAC Changer V2 running on your local machine for `development`, `testing purposes`, or `daily use`.
+- Follow these instructions to get MAC Changer V2 running on your local machine for `development`, `testing purposes`, or `daily use`.
 
 ### Prerequisites
 
-Ensure you have Python installed on your system. You can download Python from [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer). This script is compatible with Python 3.11.6 and above.
+- Ensure you have Python installed on your system. You can download Python from [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer). This script is compatible with Python 3.11.6 and above.
 
 # Run `CMD.exe or Terminal in ADMIN MODE`
 
 ### Installation
 
-Clone this repository to get started with MAC Changer V2:
+- Clone this repository to get started with MAC Changer V2:
 
 
 
