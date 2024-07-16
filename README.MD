@@ -27,7 +27,7 @@ git clone https://github.com/kernferm/mac-changerV2.git
 # Navigate to the project directory
 
 ```
-cd MACChangerV2
+cd mac-changerV2
 ```
 - No additional dependencies are required to run this script as it utilizes standard Python libraries.
 
