@@ -21,7 +21,7 @@ MAC Changer V2 is a Python script designed to easily change the MAC address of n
 # Clone the repository
 
 ```
-git clone https://github.com/kernferm/MACChangerV2.git
+git clone https://github.com/kernferm/mac-changerV2.git
 ```
 
 # Navigate to the project directory
