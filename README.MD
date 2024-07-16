@@ -69,8 +69,9 @@ python -m unittest discover tests
 ## Built With
 
 - Python 3.11.6
+-------------
 
-## LICENSE
+# LICENSE
 
 [License Agreement](https://github.com/KernFerm/mac-changerV2/blob/main/LICENSE)
 
