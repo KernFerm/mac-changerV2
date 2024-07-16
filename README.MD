@@ -47,7 +47,7 @@ cd path_to_script
 python main.py
 ```
 - Follow the on-screen prompts to select your network interface and enter a new MAC address.
------
+
 
 ## Running the Tests
 
