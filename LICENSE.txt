@@ -1,0 +1,47 @@
+# Custom Software License
+
+## License Agreement
+
+By using this software, you agree to the following terms and conditions. This license is designed to protect the developer, herein referred to as "the Developer", from any liabilities or damages resulting from the use of this software.
+
+### Grant of License
+
+The Developer grants you a revocable, non-exclusive, non-transferable, limited license to download, install, and use the software solely for your personal and non-commercial purposes strictly in accordance with the terms of this license.
+
+### Restrictions
+
+You agree not to, and you will not permit others to:
+
+- Modify, translate, adapt, or otherwise create derivative works or improvements, whether or not patentable, of the software.
+- Reverse engineer, disassemble, decompile, decode, or otherwise attempt to derive or gain access to the source code of the software or any part thereof.
+- Rent, lease, lend, sell, sublicense, assign, distribute, publish, transfer, or otherwise make available the software, or any features or functionality of the software, to any third party for any reason.
+
+### Intellectual Property Rights
+
+The Developer retains ownership of the software and any copies thereof, regardless of the form in which the copies may exist. This license does not grant you any rights to the Developer's trademarks or service marks.
+
+### Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED TO YOU "AS IS" AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, THE DEVELOPER, ON ITS OWN BEHALF AND ON BEHALF OF ITS AFFILIATES AND ITS AND THEIR RESPECTIVE LICENSORS AND SERVICE PROVIDERS, EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, AND WARRANTIES THAT MAY ARISE OUT OF COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE, OR TRADE PRACTICE.
+
+### Limitation of Liability
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL THE DEVELOPER OR ITS AFFILIATES, OR ANY OF ITS OR THEIR RESPECTIVE LICENSORS OR SERVICE PROVIDERS, HAVE ANY LIABILITY ARISING FROM OR RELATED TO YOUR USE OF OR INABILITY TO USE THE SOFTWARE FOR:
+
+- PERSONAL INJURY, PROPERTY DAMAGE, LOST PROFITS, COST OF SUBSTITUTE GOODS OR SERVICES, LOSS OF DATA, LOSS OF GOODWILL, BUSINESS INTERRUPTION, COMPUTER FAILURE OR MALFUNCTION, OR ANY OTHER CONSEQUENTIAL, INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL, OR PUNITIVE DAMAGES.
+
+- DIRECT DAMAGES IN AMOUNTS THAT IN THE AGGREGATE EXCEED THE AMOUNT ACTUALLY PAID BY YOU FOR THE SOFTWARE.
+
+The limitations set forth in this section shall apply even if the Developer has been advised of the possibility of such damages and notwithstanding the failure of essential purpose of any limited remedy.
+
+### Governing Law
+
+This license shall be governed by and construed in accordance with the laws of the State of Michigan, without giving effect to any choice or conflict of law provision or rule.
+
+### Entire Agreement
+
+This license constitutes the entire agreement between you and the Developer regarding the software and supersedes all prior or contemporaneous understandings and agreements, whether written or oral, regarding such subject matter.
+
+### Acknowledgment
+
+BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS.
