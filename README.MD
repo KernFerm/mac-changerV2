@@ -39,7 +39,7 @@ Make sure to run **CMD.exe** or **Terminal** in **Administrator mode** to change
 Clone this repository to get started with **MAC Changer V2**:
 
 ### Clone the repository:
-
+  - make sure to make a folder on `Desktop` then `CD` it in `CMD.exe` then do the `Git Clone`.
 ```
 git clone https://github.com/kernferm/mac-changerV2.git
 ```
