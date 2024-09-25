@@ -1,3 +1,8 @@
+## Support the Project ⭐
+
+If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+-----
+
 # 🛠️ MAC Changer V2
 
 **MAC Changer V2** is a Python script designed to **easily change the MAC address** of network interfaces on both **Windows** 🪟 and **Linux** 🐧 systems. This tool is useful for enhancing **network security**, **testing**, and maintaining **privacy** by allowing users to modify the hardware address of their network devices.
